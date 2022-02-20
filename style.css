@@ -1,7 +1,16 @@
+
+/* not working
+#id result {
+    display: flex;
+    justify-content: center;
+    border: 1px blue solid
+
+} */
+
 .container {
     display: flex;
     font-size: 40px;
-    justify-content: center;
+    justify-content: space-evenly;
     border: 1px red solid
 }
 
@@ -23,3 +32,4 @@
     text-align: center;
     font-weight: bold;
 }
+
