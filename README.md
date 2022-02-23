@@ -14,4 +14,6 @@ Project Link: https://jasonchaitea.github.io/2048-clone/
 # Roadmap
 
 - [ ] Center grid on top 1/3 of page
+- [ ] Center "You Win!" or "You Lose!" message
 - [ ] Blur screen when "You Win!" or "You Lose!" pops up
+- [ ] Recreate game in React
