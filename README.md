@@ -22,4 +22,4 @@ Project Link: https://jasonchaitea.github.io/2048-clone/
 
 Thank you to Gabriele Cirulli for creating the original game!
 
-Thank you Ania Kubów for inspiring and assisting me with recreating this game with your YouTube [guide] (https://youtu.be/aDn2g8XfSMc)!
+Thank you Ania Kubów for inspiring and assisting me with recreating this game with your YouTube [guide](https://youtu.be/aDn2g8XfSMc)!
