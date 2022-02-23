@@ -8,10 +8,10 @@ Project Link: https://jasonchaitea.github.io/2048-clone/
 
 # Issues
 
-[ ] Numbers not adding correctly on right side of board.
-[ ] Need to center "You Win!" or "You Lose!" message
+- [ ] Numbers not adding correctly on right side of board.
+- [ ] Need to center "You Win!" or "You Lose!" message
 
 # Roadmap
 
-[ ] Center grid on top 1/3 of page
-[ ] Blur screen when "You Win!" or "You Lose!" pops up
+- [ ] Center grid on top 1/3 of page
+- [ ] Blur screen when "You Win!" or "You Lose!" pops up
