@@ -76,8 +76,8 @@ document.addEventListener('DOMContentLoaded', () => {
     function moveDown() {
         for (let i = 0; i < 4; i++) {
             let totalOne = squares[i].innerHTML
-            let totalTwo = squares[i+width].innerHTML
-            let totalThree = squares[i+(width*2)].innerHTML
+            let totalTwo = squares[i + width].innerHTML
+            let totalThree = squares[i + (width * 2)].innerHTML
             let totalFour = squares[i + (width * 3)].innerHTML
             let column = [parseInt(totalOne), parseInt(totalTwo), parseInt(totalThree), parseInt(totalFour)]
 
@@ -98,8 +98,8 @@ document.addEventListener('DOMContentLoaded', () => {
     function moveUp() {
         for (let i = 0; i < 4; i++) {
             let totalOne = squares[i].innerHTML
-            let totalTwo = squares[i+width].innerHTML
-            let totalThree = squares[i+(width*2)].innerHTML
+            let totalTwo = squares[i + width].innerHTML
+            let totalThree = squares[i + (width * 2)].innerHTML
             let totalFour = squares[i + (width * 3)].innerHTML
             let column = [parseInt(totalOne), parseInt(totalTwo), parseInt(totalThree), parseInt(totalFour)]
 
@@ -131,7 +131,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
    function combineColumn() {
         for (let i = 0; i < 12; i++) {
-            if (squares[i].innerHTML === squares[i+width].innerHTML) {
+            if (squares[i].innerHTML === squares[i + width].innerHTML) {
                 let combinedTotal = parseInt(squares[i].innerHTML) + parseInt(squares[i + 1].innerHTML)
                 squares[i].innerHTML = combinedTotal
                 squares[i + width].innerHTML = 0
